@@ -16,11 +16,6 @@ results/*
 *.pdf
 !results/*.py
 
-# Paper sources and figure assets
-/patchkv_tex/
-*.tex
-/figures/*
-
 # Local packaging settings
 /pyproject.toml
 
